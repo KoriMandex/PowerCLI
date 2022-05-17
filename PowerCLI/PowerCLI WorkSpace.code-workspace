@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.fontSize": 12,
+		"terminal.integrated.cwd": "C:\\Users\\hanes.kori\\OneDrive - Mandex, Inc\\Documents\\Projects\\PowerCLI"
+	}
+}
